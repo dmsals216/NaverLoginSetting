@@ -30,6 +30,8 @@ https://developers.naver.com/docs/login/android/ 로 들어간다
 
 ![](/res/3.png)
 
+![](/res/5.png)
+
 5. proguard를 적용한다
 
 ````

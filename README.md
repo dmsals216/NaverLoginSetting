@@ -38,4 +38,4 @@ https://developers.naver.com/docs/login/android/ 로 들어간다
 }
 ````
 
-여기까지 네이버 로그인 설정
+여기까지 네이버 로그인 설정 완료
